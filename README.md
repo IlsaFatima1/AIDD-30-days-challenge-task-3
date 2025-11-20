@@ -16,7 +16,7 @@ Gemini 3.0 improves coding and automation by enabling **agent-based workflows** 
 
 ### 3. How does Gemini 3.0 improve multimodal understanding?
 
-It has much more powerful multimodal capabilities — meaning it can more effectively combine and reason over text, images, (and potentially other modalities).
+It has much more powerful multimodal capabilities meaning it can more effectively combine and reason over text, images, (and potentially other modalities).
 
 
 ### 4. Name any two developer tools introduced with Gemini 3.0.
@@ -28,5 +28,5 @@ It has much more powerful multimodal capabilities — meaning it can more effect
 ## 🌟 PART B — Practical Task (Screenshot Required)
 
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/IlsaFatima1/AIDD-30-days-challenge-task-3/refs/heads/main/Gemini-Screenshot%20.png)
 
